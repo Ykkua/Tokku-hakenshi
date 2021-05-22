@@ -1,0 +1,32 @@
+{
+  "title": "Tokku Hakkenshi",
+  "description": "Shino Inuzuka est un jeune lycéen qui a été baptisé d'après le légendaire Hakkenshi, "Dévouement", nom qu'il déteste car il n'a fait que le stresser toute sa vie. Et ce nom va à nouveau lui jouer un vilain tour lorsqu'il se retrouvera entraîné dans la lutte contre "le Fléau", des créatures surgies d'un gigantesque trou au centre de la ville.",
+  "Auteur": "Ayamine Rando, Kurimoto Kentarou, Kurimoto Saki",
+  "cover": "https://miammiam-team.org/wp-content/uploads/2016/04/T4-Tokku-201x300.jpg",
+  "chapters": {
+    "45": {
+      "title": "Ceux qui portent la marque de Botan (2)",
+       "volume": "3",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/NzH8OPj/"
+      },
+      "last_updated": "1615457716"
+    },
+      "46": {
+      "title": "Ceux qui portent la marque de Botan (3)",
+      "volume": "4",
+      "groups": {
+      "MiamMiam Team": "/proxy/api/imgur/chapter/3JmVGKs/"
+   },
+   "last_updated": "1615457716"
+  },
+   "47": {
+      "title": "La ville déchue (1)",
+      "volume": "4",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/vARUhB2/"
+      },
+      "last_updated": "1621502116"
+    }
+   }
+  }
